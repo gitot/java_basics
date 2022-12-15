@@ -4,3 +4,4 @@
 target
 *.class
 out
+.DS_Store
